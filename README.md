@@ -10,7 +10,7 @@ I am @gopinnath Software Developer primarily working with Java Programming Langu
 
 ## 📌 Key Repositories
 
-[![Github Repo Capture And View](https://github-readme-stats.vercel.app/api/pin/?username=gopinnath&repo=capture-n-view&title_color=ffffff&text_color=cccccc&icon_color=bbbbbb&bg_color=000000)](https://github.com/gopinnath/capture-n-view)
+[![Github Repo Capture And View](https://github-readme-stats.vercel.app/api/pin/?username=gopinnath&repo=capture-n-view&title_color=ffffff&text_color=cccccc&icon_color=bbbbab&bg_color=000000)](https://github.com/gopinnath/capture-n-view)
 
 
 
