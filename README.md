@@ -4,7 +4,7 @@ I am @gopinnath Software Developer primarily working with Java Programming Langu
 
 ## Reach Me At
 
-![Twitter Badge](https://img.shields.io/twitter/follow/gopinnath?style=social)
+[![Twitter Badge](https://img.shields.io/twitter/follow/gopinnath?style=social)](https://twitter.com/gopinnath)
 
 <!---
 
