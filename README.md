@@ -2,10 +2,13 @@
 
 I am @gopinnath Software Developer primarily working with Java Programming Language. 
 
-## Reach Me At
+## Github Stats 
+
+[![Github Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=gopinnath&title_color=ffffff&text_color=cccccc&icon_color=bbbbbb&bg_color=000000)](https://github.com/gopinnath)
+
+## Reach Me 📫 At
 
 [![Twitter Badge](https://img.shields.io/twitter/follow/gopinnath?style=social)](https://twitter.com/gopinnath)
-
 <!---
 
 - 👀 I’m interested in ...
